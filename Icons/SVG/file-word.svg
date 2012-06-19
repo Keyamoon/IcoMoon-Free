@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
@@ -7,7 +7,7 @@
 	<g id="Layer_1_1_">
 		<g id="Grid">
 			<g>
-				<rect x="0" fill="none" stroke="#A9CCDB" stroke-miterlimit="10" width="512" height="512"/>
+				<rect fill="none" stroke="#A9CCDB" stroke-miterlimit="10" width="512" height="512"/>
 				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="480" x2="512" y2="480"/>
 				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="448" x2="512" y2="448"/>
 				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="416" x2="512" y2="416"/>
@@ -43,12 +43,12 @@
 	</g>
 </g>
 <g>
-	<path d="M449.735,105.438l-75.173-87.703C365.751,7.458,349.533,0,336,0H80C62.355,0,48,14.355,48,32v448c0,17.645,14.354,32,32,32
-		h352c17.645,0,32-14.355,32-32V144C464,131.298,458,115.08,449.735,105.438z M352,20.367c4.142,2.112,7.88,4.826,10.412,7.781
-		l75.175,87.704c2.649,3.092,5.069,7.469,6.913,12.148H352V20.367z M448,480c0,8.8-7.2,16-16,16H80c-8.8,0-16-7.2-16-16V32
-		c0-8.8,7.2-16,16-16h256v128h112V480z"/>
 	<polygon points="319.889,237.946 341.995,237.946 316.489,351.035 283.326,192.03 230.051,192.03 191.494,351.035 162.586,192.03 
 		106.889,192.03 163.435,447.971 217.854,447.971 256.001,296.617 290.129,447.971 340.297,447.971 405.112,192.03 319.889,192.03 	
 		"/>
+	<path d="M451.716,99.715l-71.432-71.431C364.728,12.728,334,0,312,0H72C50,0,32,18,32,40v432c0,22,18,40,40,40h368
+		c22,0,40-18,40-40V168C480,146,467.272,115.271,451.716,99.715z M429.089,122.343c1.565,1.565,3.125,3.487,4.64,5.657H352V46.272
+		c2.17,1.515,4.092,3.075,5.657,4.64L429.089,122.343z M448,472c0,4.336-3.664,8-8,8H72c-4.336,0-8-3.664-8-8V40
+		c0-4.336,3.664-8,8-8h240c2.416,0,5.127,0.305,8,0.852V160h127.148c0.547,2.873,0.852,5.583,0.852,8V472z"/>
 </g>
 </svg>

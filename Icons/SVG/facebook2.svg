@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
@@ -7,7 +7,7 @@
 	<g id="Layer_1_1_">
 		<g id="Grid">
 			<g>
-				<rect x="0" fill="none" stroke="#A9CCDB" stroke-miterlimit="10" width="512" height="512"/>
+				<rect fill="none" stroke="#A9CCDB" stroke-miterlimit="10" width="512" height="512"/>
 				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="480" x2="512" y2="480"/>
 				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="448" x2="512" y2="448"/>
 				<line fill="none" stroke="#A9CCDB" stroke-miterlimit="10" x1="0" y1="416" x2="512" y2="416"/>
@@ -42,7 +42,8 @@
 		</g>
 	</g>
 </g>
-<path d="M426.672,0H85.342C38.406,0,0,38.407,0,85.344v341.313C0,473.626,38.406,512,85.342,512h170.654V319.5h-64V240h64v-40
-	c0-57.344,43.063-104.001,96.004-104.001h64v79.25h-64c-7.551,0-16,10.266-16,24V240h80v79.5h-80v192.499h90.672
-	c46.937,0,85.328-38.373,85.328-85.344V85.344C512,38.407,473.609,0,426.672,0z"/>
+<path d="M426.672,0H85.342C38.406,0,0,38.407,0,85.344v341.313C0,473.626,38.406,512,85.342,512l341.33-0.001
+	c46.938,0,85.328-38.373,85.328-85.344V85.344C512,38.407,473.609,0,426.672,0z M435.296,256H352v224h-96V256h-46.263v-73.282H256
+	v-47.593C256,70.454,283.896,32,359.935,32h87.622v79.285h-71.565c-21.241-0.035-23.876,11.076-23.876,31.756L352,182.718h96
+	L435.296,256z"/>
 </svg>
