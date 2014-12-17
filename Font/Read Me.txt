@@ -1,0 +1,9 @@
+In this folder, you can find the IcoMoon-Free font in TTF format. You can install this font so that you can use it in desktop applications.
+
+Open "Reference.html" to see a list of the icons available in this font. The text box located to the bottom right of each icon contains a character (which may be invisible). You can copy and use this character in any desktop application that allows entering text and choosing a custom font to display it. You may also type or copy the text in the "liga" field if the environment in which you're using the font supports ligatures.
+
+To get crisp results, use font sizes that are a multiple of 16px.
+
+It is not recommend to use this font on the web. To make an optimized webfont, use the IcoMoon app (https://icomoon.io/app). This app allows you to choose the icons that you need and make them into webfont.
+
+You can import "selection.json" to the IcoMoon app to modify this font.

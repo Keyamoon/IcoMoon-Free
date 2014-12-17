@@ -1,9 +1,13 @@
-This is a free version of IcoMoon with 450 icons. More icons will be added to this package over time. Watch this repository on github to be informed of future updates: https://github.com/Keyamoon/IcoMoon--limited-
+IcoMoon-Free is a free vector icon pack by [Keyamoon](http://keyamoon.com).
 
-NOTE: The file named *Import Me.svg* is a special SVG font that is loaded to the IcoMoon app by default. Start making your own custom fonts using this app: http://icomoon.io/app
-Adobe Illustrator cannot open SVG fonts.
+The icons in this package were designed on a 16px grid and they look best when used at sizes that are a multiple of 16px. For example, 16px, 32px, 48px, 64px, etc.
 
-Refer to the documentation page to learn more:
-http://icomoon.io/#docs
+This package contains the icons in different formats. To access all icons in a single file, you can use the PSD, PDF or the AI (Adobe Illustrator) file.
 
-Visit IcoMoon's webpage for more information: http://icomoon.io
+This icon pack comes with a desktop font which you can install and use in any application that allows choosing custom fonts for your type. Refer to the "Read Me.txt" file inside the "Fonts" directory to learn more.
+
+To access the icons in the [IcoMoon app](https://icomoon.io/app), you can import the "IcoMoon-Free.json" file. Using this app, you can make custom webfonts or generate SVG sprites.
+
+To access the icons as separate files, look under the "SVG", "EPS" or "PDF" directories. The "PNG" folder contains all icons as raster images, in 4 different sizes.
+
+Visit [IcoMoon.io](https://icomoon.io) for more information.
