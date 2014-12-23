@@ -4,6 +4,6 @@ Open "Reference.html" to see a list of the icons available in this font. The tex
 
 To get crisp results, use font sizes that are a multiple of 16px.
 
-It is not recommend to use this font on the web. To make an optimized webfont, use the IcoMoon app (https://icomoon.io/app). This app allows you to choose the icons that you need and make them into webfont.
+It is not recommend to use this font on the web. To make an optimized webfont, use the IcoMoon app (https://icomoon.io/app). This app allows you to choose the icons that you need and make them into webfonts.
 
 You can import "selection.json" to the IcoMoon app to modify this font.
